@@ -1,7 +1,6 @@
 C:\Users\bos3\source\repos\PLA_COCVAL\PLA_COCVAL\bin\Debug\PLA_COCVAL.exe.config
 C:\Users\bos3\source\repos\PLA_COCVAL\PLA_COCVAL\bin\Debug\PLA_COCVAL.exe
 C:\Users\bos3\source\repos\PLA_COCVAL\PLA_COCVAL\bin\Debug\PLA_COCVAL.pdb
-C:\Users\bos3\source\repos\PLA_COCVAL\PLA_COCVAL\obj\Debug\PLA_COCVAL.csprojAssemblyReference.cache
 C:\Users\bos3\source\repos\PLA_COCVAL\PLA_COCVAL\obj\Debug\Interop.SAPbobsCOM.dll
 C:\Users\bos3\source\repos\PLA_COCVAL\PLA_COCVAL\obj\Debug\Interop.SAPbouiCOM.dll
 C:\Users\bos3\source\repos\PLA_COCVAL\PLA_COCVAL\obj\Debug\PLA_COCVAL.csproj.ResolveComReference.cache

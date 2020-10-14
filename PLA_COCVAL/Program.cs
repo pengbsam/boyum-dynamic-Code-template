@@ -14,13 +14,10 @@ namespace PLA_COCVAL
         [STAThread]
         static void Main()
         {
-            Program program1 = new Program();
-            program1.
+            connect oconnect = new connect();
+
+            System.Windows.Forms.Application.Run();
         }
 
-        public void init()
-        {
-
-        }
     }
 }

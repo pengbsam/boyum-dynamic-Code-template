@@ -46,8 +46,16 @@ namespace PLA_COCVAL
         {
             BubbleEvent = true;
             
-            switch FormUID:
-                case 
+            if (pVal.FormType == 140)
+            {
+                if (pVal.EventType == SAPbouiCOM.BoEventTypes.et_CLICK  && pVal.ItemUID == "BOY_99_23" && pVal.BeforeAction == true)
+                {
+                    //Global.oapplication.MessageBox("Got this", 1, "OK", "","");
+
+                    PLA_COCVAL.PLA_COCVAL_DO(ref Global.oapplication, ref Global.ocompany);
+                }
+            }
+
         }
 
     }
